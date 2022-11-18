@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+
+        <file>icons/bullhorn.png</file>
+        <file>icons/</file>
+         <file>icons/curvedchart.png</file>
+         <file>icons/data analysis.png</file>
+         <file>icons/Drainage collection process.png</file>
+         <file>icons/employee.png</file>
+         <file>icons/Equipment repair.png</file>
+         <file>icons/House.png</file>
+         <file>icons/info.png</file>
+         <file>icons/logout.png</file>
+         <file>icons/Monitoring and early warning.png</file>
+         <file>icons/off.png</file>
+         <file>icons/Production control.png</file>
+         <file>icons/Production management.png</file>
+         <file>icons/settings.png</file>
+         <file>icons/Systemsettings.png</file>
+        <flie >icons/warn2.png</flie>
+
+
+
+    </qresource>
+</RCC>
